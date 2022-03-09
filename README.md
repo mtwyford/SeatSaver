@@ -18,7 +18,16 @@ Mission:
         1. total attendance numbers
         2. max num of people from each company at a table
   
-Seat Saver  - another name for Party Planner is a project for students to break out and work on their own without alot of specific guidance.
+
+  # Getting Started
+  
+  There are several ways to approach this problem.  Consider how you will design an algorithm to:
+  * think about how to create 'tables' and check for:
+    * number of people at the table?
+    * number of people from each company at the table
+  * (how you will) read and/or parse the data
+  * organize the data into - for example people objects
+  * print table 'rosters' (list of each person at the different tables)
   
   
 
