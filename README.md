@@ -14,9 +14,9 @@ Mission:
      * read in each line of text
      * parse out the string/text into the various elements or data types
   5. Use a scanner class to permit users to manually (apply) /register to attend.
-      a. users requesting to attend should not break rules of 
-          i. total attendance numbers
-          ii. max num of people from each company at a table
+      * users requesting to attend should not break rules of 
+        * total attendance numbers
+        * max num of people from each company at a table
   
 Seat Saver  - another name for Party Planner is a project for students to break out and work on their own without alot of specific guidance.
   
