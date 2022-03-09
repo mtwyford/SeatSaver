@@ -10,9 +10,9 @@ Mission:
   2. No more than 100 people may attend the event
   3. No more than 2 people from any company may sit at the same table
   4. A file with 90 people will be provided, part of your task will be to use code to:
-      a. load the file (use buffer, scanner class or other methods
-      b. read in each line of text
-      c. parse out the string/text into the various elements or data types
+     * load the file (use buffer, scanner class or other methods
+     * read in each line of text
+     * parse out the string/text into the various elements or data types
   5. Use a scanner class to permit users to manually (apply) /register to attend.
       a. users requesting to attend should not break rules of 
           i. total attendance numbers
