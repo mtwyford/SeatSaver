@@ -1,4 +1,4 @@
-# SeatSaver
+# SeatSaver AKA Party Planner
 
 <<Seat saver is a variation of PartyPlanner - I had to move and create a new Repo due to some conflicting versions.>>
 
@@ -25,12 +25,10 @@ Mission:
   * think about how to create 'tables' and check for:
     * number of people at the table?
     * number of people from each company at the table
+    * total number of people at the banquet
   * (how you will) read and/or parse the data
   * organize the data into - for example people objects
   * print table 'rosters' (list of each person at the different tables)
-  
-  
-
   
   
   ```java 
