@@ -30,7 +30,7 @@ Mission:
   * organize the data into - for example people objects
   * print table 'rosters' (list of each person at the different tables)
   
-  ## Let's look at an example of loading data...
+  ### Let's look at an example of loading data...
   
   ```java 
   
