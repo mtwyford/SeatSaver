@@ -13,10 +13,10 @@ Mission:
      * load the file (use buffer, scanner class or other methods
      * read in each line of text
      * parse out the string/text into the various elements or data types
-  5. A second text/csv file exists - but you can manually build a list of comanies and their corresponding ID's.
-  6. Use a scanner class to permit users to manually (apply) /register to attend.
+  5. A second text/csv file exists -(companies.txt)- but you can manually build a list of comanies and their corresponding ID's.
+  6. Then, Use a scanner class to permit users to manually (apply) /register to attend.
       * users requesting to attend should not break rules of 
-        1. total attendance numbers
+        1. total attendance numbers (once total num=100, stop)
         2. max num of people from each company at a table
   
 
@@ -52,6 +52,7 @@ Other items to consider
 
 * People as objects - create a People or Person class, with certain variables
 * Add them to a list (say, an arraylist) of Person objects
+* Wait to add ALL the people, both from the file load, and from the manual registration with a Scanner class
 * If you placed people by company first - would you be able to check if that company has reached their 'max' of 20?
 * Don't forget to save/store you work - 
 * It would be nice to give the user the option to print out a list of each table, maybe even save to multipl files??
