@@ -1,5 +1,5 @@
 # SeatSaver AKA Party Planner
-![Party Graphic](party.jpg "Party Planning")
+![Party Graphic](party.jpg "Party Planning" {width=200px})
 
 
 > Seat saver is a variation of PartyPlanner - I had to move and create a new Repo due to some conflicting versions.
