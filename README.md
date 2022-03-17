@@ -49,6 +49,7 @@ csvReader.close();
 >  Notice that the while loop both reads in a new line - and at the same time checks to see if there is a next line to read
 >  If there is a new line, 'row' is split using a delimiter ',' into elements of an array
 >  from there - you could parse elements of that String array into the various parts of a Person object, hint parseInt might be helpful.
+>  Still getting an error? Did you include supporting files ike import java.io.*?  did you add 'throws IOException' to the main header?
 
 Other items to consider
 
