@@ -64,7 +64,7 @@ This is fun!
 Recall that this is designed to be a chance to stretch your skills and see how you do with some unknowns.
 I am interested to see your progress and evolution in this project--
 
-> 50% of your grade will come from the eveolution of your project each day, with regular commits, plent of comments and a flow.
+> 50% of your grade will come from the eveolution of your project each day, with regular commits, **plenty of comments** and a flow.
 > A magical 180 or a remarkable explosion of code one day after 4 days of 20lines/day average would be cause for concern.
 > Let's see how you approach, think and try to solve the problem.
 > Show me your thinking!!
